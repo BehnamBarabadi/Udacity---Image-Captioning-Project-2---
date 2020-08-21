@@ -1,7 +1,7 @@
 # Udacity Computer Vision Nanodegree Project 2 Image Captioning 
 This is my automatic image captioning model for project 2 of the Computer Vision Nanodegreeon COCO images
 
-## Downloadinf the data
+## Downloading the data
 Download some specific data from here: http://cocodataset.org/#download (described below) Under Annotations, download:
 
 - Annotations:
