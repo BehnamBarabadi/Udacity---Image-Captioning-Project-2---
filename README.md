@@ -1,5 +1,5 @@
 # Udacity Computer Vision Nanodegree Project 2 Image Captioning 
-This is my automatic image captioning model for project 2 of the Computer Vision Nanodegreeon COCO images
+This is my automatic image captioning model for project 2 of the Computer Vision Nanodegree on COCO images
 
 This project is done on my local machine and there is a complete instruction on how to use COCO dataset on windows in the first jupyter notebook.
 
